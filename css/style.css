@@ -31,7 +31,7 @@ h1 {
 .bottom-container {
   text-align: center;
   position: absolute;
-  padding-left: 750px;
+  
 
 }
 
@@ -48,7 +48,7 @@ h1 {
 
 .bottom-cloud {
   position: absolute;
-  margin-left: 50%;
+  margin-left: 200px;
 }
 
 .pro {
